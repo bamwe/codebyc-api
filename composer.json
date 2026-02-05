@@ -1,0 +1,17 @@
+{
+    "name": "codebyc/api",
+    "description": "REST API for Codebyc Social Platform",
+    "type": "project",
+    "require": {
+        "php": ">=7.4",
+        "ext-pdo": "*",
+        "ext-pdo_pgsql": "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Your Name",
+            "email": "your.email@codebyc.com"
+        }
+    ]
+}
